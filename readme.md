@@ -16,7 +16,7 @@ mindmap
             
     Nom
         Dwarven code
-          DwrCde
+          DwrCod
 ```
 # Images sources
 ![](https://i.scdn.co/image/ab67616d0000b273f65af0c7883a6f17709c83ac)
